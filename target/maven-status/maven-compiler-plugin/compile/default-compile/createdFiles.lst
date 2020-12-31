@@ -1,0 +1,10 @@
+com\gmail\alexwazzan1\test\listeners\Join.class
+com\gmail\alexwazzan1\test\listeners\Quit.class
+com\gmail\alexwazzan1\test\commands\Start.class
+com\gmail\alexwazzan1\test\Main.class
+com\gmail\alexwazzan1\test\Team.class
+com\gmail\alexwazzan1\test\ActivePlayer.class
+com\gmail\alexwazzan1\test\commands\End.class
+com\gmail\alexwazzan1\test\commands\List.class
+com\gmail\alexwazzan1\test\Main$1.class
+com\gmail\alexwazzan1\test\listeners\Move.class

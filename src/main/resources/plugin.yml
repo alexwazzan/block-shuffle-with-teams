@@ -1,0 +1,11 @@
+name: BlockShuffle
+version: 1.0
+main: com.gmail.alexwazzan1.test.Main
+
+commands:
+  start:
+    aliases: [s]
+  end:
+    aliases: [e]
+  list:
+    aliases: [l]
